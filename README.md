@@ -8,15 +8,13 @@ ssh 登陆飞牛终端
 
 sudo -i  进入超管模式
 
-然后输入命令任一即可
+然后输入命令即可
 
 ```
 curl -s https://raw.githubusercontent.com/vesaaa/fnos_fix/refs/heads/main/fix.sh | bash 
 ```
 
-```
-bash <(curl -sL https://github.com/XTLS/Xray-install/raw/main/install-release.sh) 
-```
+
 
 
 注意:
