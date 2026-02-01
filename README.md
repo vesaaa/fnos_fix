@@ -11,14 +11,11 @@ sudo -i  进入超管模式
 然后输入命令任一即可
 
 ```
- curl https://github.com/vesaaa/fnos_fix/blob/main/fix.sh | sh 
-
+ curl https://raw.githubusercontent.com/vesaaa/fnos_fix/refs/heads/main/fix.sh | bash 
 ```
 
 ```
-
- bash <(https://github.com/vesaaa/fnos_fix/blob/main/fix.sh)
-
+bash <(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh) 
 ```
 
 
